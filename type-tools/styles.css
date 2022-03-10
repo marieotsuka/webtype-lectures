@@ -6,6 +6,7 @@
 *{
   font-variation-settings: 'wght' var(--wght), 'wdth' var(--wdth), 'slnt' var(--slnt);
 }
+
 :root{
   --wght: 450;
   --wdth: 85;
