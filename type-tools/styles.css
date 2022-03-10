@@ -18,8 +18,10 @@ body {
 
 h1,h2,h3,h4,h5{
   font-weight: normal;
-  font-style: italic;
+  font-style: normal;
   margin: 0;
+  --wght: 200;
+  --slnt: 80;
 }
 
 .remark-slide-content{
@@ -30,13 +32,12 @@ h1,h2,h3,h4,h5{
 }
 .remark-slide-content h2{
   font-size: 5rem;
-  --wght: 200;
-  --slnt: 50;
 }
 
 h1{
   text-transform: uppercase;
 }
+
 a{
   color: white;
 }
@@ -98,7 +99,10 @@ figcaption{
   color: black;
   border: 1px solid black;
   padding: 5px;
-  font-size: 16px;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  --wdth: 110;
+  --wght: 500;
   line-height: 1.3;
   max-width: 33em;
 }
