@@ -1,0 +1,72 @@
+/*
+* Webfonts served by typotheque.com
+*
+* To make the font files as small as possible,
+* most glyphs and OpenType features were removed.
+* To edit the fonts, add more language support,
+* log it to your Typotheque account:
+* http://www.typotheque.com/my_account/webfonts
+*
+* The Typotheque Font Software is protected under domestic
+* and international trademark and copyright law.
+* Modifying, reverse engineering or otherwise copying
+* of Typotheque Font Software is illegal.
+* http://www.typotheque.com/licensing/
+*
+* (c) 2019, Typotheque
+* Generated: 2019-08-26 10:43:37
+*/
+
+@font-face {
+	font-family: "Greta Text 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.svg#typotheque_webfonts_service") format("svg");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Greta Text Regular 4";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000249-7987303f73b6ce183e4547e04128cbc9.svg#typotheque_webfonts_service") format("svg");
+}
+@font-face {
+	font-family: "Greta Text 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.svg#typotheque_webfonts_service") format("svg");
+	font-style: italic;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Greta Text Regular Italic 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000250-411637670d622ec50c42eafbb4bd8208.svg#typotheque_webfonts_service") format("svg");
+}
+@font-face {
+	font-family: "Greta Text 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.svg#typotheque_webfonts_service") format("svg");
+	font-style: normal;
+	font-weight: 700;
+}
+@font-face {
+	font-family: "Greta Text Bold 3";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000253-2852aa83e5942ddea7acb51516a3428b.svg#typotheque_webfonts_service") format("svg");
+}
+@font-face {
+	font-family: "Greta Text 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.svg#typotheque_webfonts_service") format("svg");
+	font-style: italic;
+	font-weight: 700;
+}
+@font-face {
+	font-family: "Greta Text Bold Italic 2";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000254-3a66551a0b5bbfc2c79b961b89aca72d.svg#typotheque_webfonts_service") format("svg");
+}
+@font-face {
+	font-family: "Fedra Sans Screen Italic";
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000451-fee8f2e468aad2df890dd7b671fffefa.eot");
+	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000451-fee8f2e468aad2df890dd7b671fffefa.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000451-fee8f2e468aad2df890dd7b671fffefa.woff2") format("woff2"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000451-fee8f2e468aad2df890dd7b671fffefa.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-000099-000534-000451-fee8f2e468aad2df890dd7b671fffefa.svg#typotheque_webfonts_service") format("svg");
+}
