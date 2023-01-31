@@ -1,28 +1,12 @@
-@font-face {
-  font-family: 'Pentameter';
-  src: url('Pentameter-VF.ttf'); 
-}
-
-*{
-  font-variation-settings: 'wght' var(--wght), 'wdth' var(--wdth), 'slnt' var(--slnt);
-}
-
-:root{
-  --wght: 450;
-  --wdth: 85;
-  --slnt: 0;
-}
 
 body {
-  font-family: "Pentameter", serif; 
+  font-family: "Courier", monospace;
 }
 
 h1,h2,h3,h4,h5{
   font-weight: normal;
   font-style: normal;
   margin: 0;
-  --wght: 200;
-  --slnt: 80;
 }
 
 .remark-slide-content{
